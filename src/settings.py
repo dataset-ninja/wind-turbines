@@ -21,7 +21,7 @@ PROJECT_NAME_FULL: str = "Object Detection Dataset - Wind Turbines"
 ##################################
 LICENSE: License = License.CC0_1_0()
 APPLICATIONS: List[Union[Industry, Domain, Research]] = [Industry.Energy(is_used=False)]
-CATEGORY: Category = Category.EnergyAndUtilities()
+CATEGORY: Category = Category.EnergyAndUtilities(extra=Category.Drones())
 
 CV_TASKS: List[CVTask] = [CVTask.ObjectDetection()]
 ANNOTATION_TYPES: List[AnnotationType] = [CVTask.ObjectDetection()]

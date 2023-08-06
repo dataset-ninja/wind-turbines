@@ -9,4 +9,4 @@ If you make use of the Wind Turbines data, please cite the following reference:
 }
 ```
 
-[🔗 Source](https://www.kaggle.com/datasets/kylegraupe/wind-turbine-image-dataset-for-computer-vision)
+[Source](https://www.kaggle.com/datasets/kylegraupe/wind-turbine-image-dataset-for-computer-vision)
