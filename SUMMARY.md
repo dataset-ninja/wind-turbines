@@ -1,4 +1,4 @@
-**Object Detection Dataset - Wind Turbines** is a dataset for object detection tasks. Possible applications of the dataset could be in the energy industry. 
+**Object Detection Dataset - Wind Turbines** is a dataset for an object detection task. Possible applications of the dataset could be in the energy industry. 
 
 The dataset consists of 3020 images with 18289 labeled objects belonging to 2 different classes including *turbine* and *cable tower*.
 
