@@ -1,3 +1,3 @@
 # Object Detection Dataset - Wind Turbines
 
-Wind Turbines is a dataset for object detection tasks.
+Wind Turbines (by Kyle Graupe) is a dataset for object detection tasks.
