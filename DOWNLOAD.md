@@ -1,6 +1,6 @@
 Dataset **Wind Turbines (by Kyle Graupe)** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](https://www.dropbox.com/scl/fi/jgeo7o4e05xiee06lbbnu/wind-turbines-by-kyle-graupe-DatasetNinja.tar?rlkey=qslwdgumcsvb0g04oywzjyoo0&dl=1)
+ [Download](https://assets.supervisely.com/remote/eyJsaW5rIjogImZzOi8vYXNzZXRzLzEwNDRfV2luZCBUdXJiaW5lcyAoYnkgS3lsZSBHcmF1cGUpL3dpbmQtdHVyYmluZXMtKGJ5LWt5bGUtZ3JhdXBlKS1EYXRhc2V0TmluamEudGFyIiwgInNpZyI6ICI0VzI3U3FrRUJYbjZ6bm5nSGJpYVhWRFJCU2V1azNocXJxeTgwempEa3VZPSJ9)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
